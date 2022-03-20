@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115759811700",
+    "project_id": "kkkk-97e42",
+    "storage_bucket": "kkkk-97e42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115759811700:android:40edf3f4006a972da7d521",
+        "android_client_info": {
+          "package_name": "com.example.karan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115759811700-kpf57cgeubolo0olemtjvccng0v8hrvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuf-oiGnXzMjO7WyLsAbIOx8LCj9JIih8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115759811700-kpf57cgeubolo0olemtjvccng0v8hrvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
